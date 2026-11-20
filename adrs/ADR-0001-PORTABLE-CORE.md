@@ -1,6 +1,6 @@
 # ADR-0001 — Shared no_std Rust core with host-owned resources
 
-Status: Proposed; Date: 2026-11-13.
+Status: Proposed/Under Review; Date: 2026-11-13.
 
 ## Context
 Previously developed portable Rust kernels, a C++/ESP-IDF runtime and a Rust/React synthesizer already contain reusable components. Per-product rewrites would create incompatible numerical semantics, conflicting control IDs and duplicated validation.
