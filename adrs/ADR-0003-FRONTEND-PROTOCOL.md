@@ -1,6 +1,6 @@
 # ADR-0003 — Versioned UI-control and audio-runtime separation
 
-Status: Proposed; Date: 2026-11-13.
+Status: Proposed/Under Review; Date: 2026-11-13.
 
 ## Decision
 All UIs (React/TSX web, native, WASM wrappers, MIDI controllers) use the same canonical parameter/event protocol. Stable integer IDs, typed units/ranges, schema version, frame/sample timestamp policy, bounded event queues, smoothing, telemetry snapshots and error semantics are required.
