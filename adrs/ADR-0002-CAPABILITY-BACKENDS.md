@@ -1,6 +1,6 @@
 # ADR-0002 — Capability-driven adapters, not target-specific forks
 
-Status: Proposed; Date: 2026-11-13.
+Status: Proposed/Under Review; Date: 2026-11-13.
 
 ## Decision
 Backends implement explicit capabilities for audio I/O, clock domain, transport, DMA memory ownership, channel count, frame size, numeric format and hardware accelerators. Runtime contract validation happens before activation. Unsupported capabilities must return a typed error or an agreed safe fallback; no silent approximations.
