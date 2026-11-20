@@ -2,8 +2,6 @@
 
 Central repository for organization-wide community defaults, engineering standards, architectural decisions, and migration guidance.
 
-**Status: proposal / review.** Proposals are not accepted policy until reviewed and merged. Existing projects retain their own contracts, history, ownership and license.
-
 **Principle: Write Core Once, Adapt Everywhere.** Share source-level algorithms and versioned contracts; implement target-specific capability adapters without duplicating DSP business logic.
 
 - [Organization profile](profile/README.md)
