@@ -1,0 +1,8 @@
+# Review-sensitive agent-assurance and policy surfaces.
+# CODEOWNERS only *requires* approvals when branch protection/rulesets enable it.
+/AGENTS.md @SalatielBM22
+/docs/AGENTIC-ASSURANCE.md @SalatielBM22
+/scripts/agentic_guard.py @SalatielBM22
+/.github/workflows/ @SalatielBM22
+/.github/CODEOWNERS @SalatielBM22
+/standards/SM-ENG-005-AGENTIC-ASSURANCE.md @SalatielBM22

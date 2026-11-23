@@ -11,3 +11,7 @@ Central repository for organization-wide community defaults, engineering standar
 - [Platform adoption roadmap](ROADMAP.md)
 
 No firmware, proprietary asset or commercial third-party binary is housed here.
+
+## Agentic software assurance
+
+See [SM-ENG-005 — Agentic and AI-Assisted Software Assurance](standards/SM-ENG-005-AGENTIC-ASSURANCE.md) for the proposed cross-project evidence and safety policy. Product repositories must opt in locally; organization governance is not silently inherited.
