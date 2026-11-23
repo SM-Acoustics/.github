@@ -16,3 +16,7 @@ Core principles:
 Start with [SM-ENG-001](standards/SM-ENG-001-ARCHITECTURE.md), [SM-ENG-002](standards/SM-ENG-002-REALTIME.md), [SM-ENG-004](standards/SM-ENG-004-EVIDENCE.md).
 
 A contributor may propose an incompatible change but MUST document its migration. Reviewers should ask for evidence instead of assuming that generated documentation reflects the running software.
+
+## AI-assisted contributions
+
+Follow [SM-ENG-005](standards/SM-ENG-005-AGENTIC-ASSURANCE.md): independent test oracle, real production reachability, truthful capability status, explicit unsupported behavior, no test laundering and review of critical invariants. Disclose agent assistance and publish exact evidence in PRs.

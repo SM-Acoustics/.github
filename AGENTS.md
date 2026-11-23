@@ -1,0 +1,3 @@
+# SM Acoustics — AI agent entry point
+
+All coding agents (Codex, Gemini, Claude, Antigravity and local assistants) must review [SM-ENG-005](standards/SM-ENG-005-AGENTIC-ASSURANCE.md), [SM-GOV-001](GOVERNANCE.md), [SM-ENG-004](standards/SM-ENG-004-EVIDENCE.md) and the target repository's accepted ADRs before implementation. Do not interpret proposed organizational documents as overriding accepted product-specific requirements. Work in a scoped PR, label unverifiable claims, never hide stubs/dead code and never change test/CI policy to manufacture PASS. No autonomous merges, releases or hardware actions.
